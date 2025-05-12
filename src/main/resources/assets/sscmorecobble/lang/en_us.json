@@ -1,0 +1,28 @@
+{
+  "block.sscmorecobble.cobbled_granite": "Cobbled Granite",
+  "block.sscmorecobble.cobbled_granite_stairs": "Cobbled Granite Stairs",
+  "block.sscmorecobble.cobbled_granite_slab": "Cobbled Granite Slab",
+  "block.sscmorecobble.cobbled_diorite": "Cobbled Diorite",
+  "block.sscmorecobble.cobbled_diorite_stairs": "Cobbled Diorite Stairs",
+  "block.sscmorecobble.cobbled_diorite_slab": "Cobbled Diorite Slab",
+  "block.sscmorecobble.cobbled_andesite": "Cobbled Andesite",
+  "block.sscmorecobble.cobbled_andesite_stairs": "Cobbled Andesite Stairs",
+  "block.sscmorecobble.cobbled_andesite_slab": "Cobbled Andesite Slab",
+  "block.sscmorecobble.cobbled_calcite": "Cobbled Calcite",
+  "block.sscmorecobble.cobbled_calcite_stairs": "Cobbled Calcite Stairs",
+  "block.sscmorecobble.cobbled_calcite_slab": "Cobbled Calcite Slab",
+  "block.sscmorecobble.cobbled_tuff": "Cobbled Tuff",
+  "block.sscmorecobble.cobbled_tuff_stairs": "Cobbled Tuff Stairs",
+  "block.sscmorecobble.cobbled_tuff_slab": "Cobbled Tuff Slab",
+  "block.sscmorecobble.cobbled_dripstone": "Cobbled Dripstone",
+  "block.sscmorecobble.cobbled_dripstone_stairs": "Cobbled Dripstone Stairs",
+  "block.sscmorecobble.cobbled_dripstone_slab": "Cobbled Dripstone Slab",
+  "block.sscmorecobble.cobbled_basalt": "Cobbled Basalt",
+  "block.sscmorecobble.cobbled_basalt_stairs": "Cobbled Basalt Stairs",
+  "block.sscmorecobble.cobbled_basalt_slab": "Cobbled Basalt Slab",
+  "block.sscmorecobble.cobbled_end_stone": "Cobbled End Stone",
+  "block.sscmorecobble.cobbled_end_stone_stairs": "Cobbled End Stone Stairs",
+  "block.sscmorecobble.cobbled_end_stone_slab": "Cobbled End Stone Slab",
+
+  "creativetab.sscmorecobble.more_cobble": "More Cobble"
+}
