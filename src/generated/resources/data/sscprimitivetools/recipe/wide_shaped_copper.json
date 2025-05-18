@@ -4,7 +4,7 @@
   "group": "copper_shaping",
   "ingredients": [
     {
-      "tag": "sscprimitivetools:crushing_crafting_copper_plus"
+      "tag": "sscprimitivetools:crushing_crafting"
     },
     {
       "item": "minecraft:raw_copper"

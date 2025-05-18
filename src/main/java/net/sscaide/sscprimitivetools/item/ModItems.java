@@ -54,7 +54,7 @@ public class ModItems {
                     .attributes(ShovelItem.createAttributes(ModToolTiers.CRUDE_STONE, 1.5f, -3.0f))));
     public static final DeferredItem<AxeItem> CRUDE_STONE_HATCHET = ITEMS.register("crude_stone_hatchet",
             () -> new AxeItem(ModToolTiers.CRUDE_STONE, new Item.Properties()
-                    .attributes(AxeItem.createAttributes(ModToolTiers.CRUDE_STONE, 4.5f, -3.2f))));
+                    .attributes(AxeItem.createAttributes(ModToolTiers.CRUDE_STONE, 5.2f, -3.2f))));
     public static final DeferredItem<HoeItem> CRUDE_STONE_TILL = ITEMS.register("crude_stone_till",
             () -> new HoeItem(ModToolTiers.CRUDE_STONE, new Item.Properties()
                     .attributes(HoeItem.createAttributes(ModToolTiers.CRUDE_STONE, 0, -3.0f))));
@@ -73,7 +73,7 @@ public class ModItems {
                     .attributes(ShovelItem.createAttributes(ModToolTiers.FLINT, 1.5f, -3.0f))));
     public static final DeferredItem<AxeItem> FLINT_HATCHET = ITEMS.register("flint_hatchet",
             () -> new AxeItem(ModToolTiers.FLINT, new Item.Properties()
-                    .attributes(AxeItem.createAttributes(ModToolTiers.FLINT, 3f, -3.2f))));
+                    .attributes(AxeItem.createAttributes(ModToolTiers.FLINT, 5.75f, -3.2f))));
     public static final DeferredItem<HoeItem> FLINT_TILL = ITEMS.register("flint_till",
             () -> new HoeItem(ModToolTiers.FLINT, new Item.Properties()
                     .attributes(HoeItem.createAttributes(ModToolTiers.FLINT, 0, -3.0f))));
@@ -94,7 +94,7 @@ public class ModItems {
                     .attributes(ShovelItem.createAttributes(ModToolTiers.CRUDE_GOLD, 1.5f, -3.0f))));
     public static final DeferredItem<AxeItem> CRUDE_GOLD_HATCHET = ITEMS.register("crude_gold_hatchet",
             () -> new AxeItem(ModToolTiers.CRUDE_GOLD, new Item.Properties()
-                    .attributes(AxeItem.createAttributes(ModToolTiers.CRUDE_GOLD, 3f, -3.2f))));
+                    .attributes(AxeItem.createAttributes(ModToolTiers.CRUDE_GOLD, 5f, -3.2f))));
     public static final DeferredItem<HoeItem> CRUDE_GOLD_TILL = ITEMS.register("crude_gold_till",
             () -> new HoeItem(ModToolTiers.CRUDE_GOLD, new Item.Properties()
                     .attributes(HoeItem.createAttributes(ModToolTiers.CRUDE_GOLD, 0, -3.0f))));
@@ -115,7 +115,7 @@ public class ModItems {
                     .attributes(ShovelItem.createAttributes(ModToolTiers.CRUDE_COPPER, 1.5f, -3.0f))));
     public static final DeferredItem<AxeItem> CRUDE_COPPER_HATCHET = ITEMS.register("crude_copper_hatchet",
             () -> new AxeItem(ModToolTiers.CRUDE_COPPER, new Item.Properties()
-                    .attributes(AxeItem.createAttributes(ModToolTiers.CRUDE_COPPER, 4.5f, -3.2f))));
+                    .attributes(AxeItem.createAttributes(ModToolTiers.CRUDE_COPPER, 5.7f, -3.2f))));
     public static final DeferredItem<HoeItem> CRUDE_COPPER_TILL = ITEMS.register("crude_copper_till",
             () -> new HoeItem(ModToolTiers.CRUDE_COPPER, new Item.Properties()
                     .attributes(HoeItem.createAttributes(ModToolTiers.CRUDE_COPPER, 0, -3.0f))));
@@ -136,7 +136,7 @@ public class ModItems {
                     .attributes(ShovelItem.createAttributes(ModToolTiers.CRUDE_IRON, 1.5f, -3.0f))));
     public static final DeferredItem<AxeItem> CRUDE_IRON_HATCHET = ITEMS.register("crude_iron_hatchet",
             () -> new AxeItem(ModToolTiers.CRUDE_IRON, new Item.Properties()
-                    .attributes(AxeItem.createAttributes(ModToolTiers.CRUDE_IRON, 4.5f, -3.2f))));
+                    .attributes(AxeItem.createAttributes(ModToolTiers.CRUDE_IRON, 5.2f, -3.2f))));
     public static final DeferredItem<HoeItem> CRUDE_IRON_TILL = ITEMS.register("crude_iron_till",
             () -> new HoeItem(ModToolTiers.CRUDE_IRON, new Item.Properties()
                     .attributes(HoeItem.createAttributes(ModToolTiers.CRUDE_IRON, 0, -3.0f))));

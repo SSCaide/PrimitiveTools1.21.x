@@ -70,7 +70,7 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
                 .unlockedBy("has_jagged_shaped_gold", has(ModItems.JAGGED_SHAPED_GOLD)).save(recipeOutput);
 
         ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, ModItems.WIDE_SHAPED_COPPER.get(), 1)
-                .requires(ModTags.Items.CRUSHING_CRAFTING_COPPER_PLUS)
+                .requires(ModTags.Items.CRUSHING_CRAFTING)
                 .requires(Items.RAW_COPPER, 1)
                 .group("copper_shaping")
                 .unlockedBy("has_raw_copper", has(Items.RAW_COPPER)).save(recipeOutput);

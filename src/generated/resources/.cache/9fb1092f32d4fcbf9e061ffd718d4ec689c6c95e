@@ -1,4 +1,4 @@
-// 1.21.1	2025-05-18T07:15:45.5734849	Recipes
+// 1.21.1	2025-05-18T08:01:50.6753051	Recipes
 b48b4839988abcc8ff11f4f5a7565e20ae9a3f5f data/minecraft/advancement/recipes/misc/copper_ingot.json
 08e1dae775742892e08af1bdffe2737a6ed5debc data/minecraft/advancement/recipes/misc/copper_ingot_from_blasting_fanned_shaped_copper.json
 66070e7a3dd8efda56f4a6daa7a524793c5ded07 data/minecraft/advancement/recipes/misc/copper_ingot_from_blasting_wide_shaped_copper.json
@@ -169,7 +169,7 @@ f353e8be789e19c466714e494182581730245277 data/sscprimitivetools/recipe/thin_shap
 5036a1efb9d90e84331fbb13f5485b15a8e949d1 data/sscprimitivetools/recipe/thin_shaped_flint.json
 3b10bc3e7af1d46b9f6db57f5d4066909524284e data/sscprimitivetools/recipe/thin_shaped_gold.json
 ca9f812f6b7482e68eae6a595bd33b0ccc1f9f79 data/sscprimitivetools/recipe/thin_shaped_iron.json
-8c1e6432c9520d71e78ace31b6d494b2830b28e1 data/sscprimitivetools/recipe/wide_shaped_copper.json
+cf572abe68e934a054c50ea27b487d7576015f16 data/sscprimitivetools/recipe/wide_shaped_copper.json
 bbcdc6a0f05e7416f7f1a229e1f05e3aa4be3512 data/sscprimitivetools/recipe/wide_shaped_flint.json
 4c350c35b1b6ba192a85e9fe408f513c17f4839e data/sscprimitivetools/recipe/wide_shaped_gold.json
 9752363979e8f7e22ae023af5712747c63b471bb data/sscprimitivetools/recipe/wide_shaped_iron.json
