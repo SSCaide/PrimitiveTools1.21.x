@@ -1,0 +1,8 @@
+{
+  "remove": [
+    "#sscprimitivetools:needs_sharpened_rock"
+  ],
+  "values": [
+    "#minecraft:incorrect_for_stone_tool"
+  ]
+}

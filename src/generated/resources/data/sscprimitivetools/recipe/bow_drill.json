@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "bow_drill",
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    "AB",
+    " A"
+  ],
+  "result": {
+    "count": 1,
+    "id": "sscprimitivetools:bow_drill"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "sscprimitivetools:item/handheld_rock",
+  "textures": {
+    "layer0": "sscprimitivetools:item/sharpened_iron_chunk"
+  }
+}

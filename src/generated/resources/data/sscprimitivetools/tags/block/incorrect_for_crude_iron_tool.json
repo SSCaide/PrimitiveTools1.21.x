@@ -1,0 +1,9 @@
+{
+  "remove": [
+    "#sscprimitivetools:needs_crude_iron_tool"
+  ],
+  "values": [
+    "#minecraft:incorrect_for_iron_tool",
+    "#c:ores/diamond"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_fanned_shaped_gold": {
+      "conditions": {
+        "items": [
+          {
+            "items": "sscprimitivetools:fanned_shaped_gold"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "sscprimitivetools:long_shaped_gold"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_fanned_shaped_gold"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "sscprimitivetools:long_shaped_gold"
+    ]
+  }
+}

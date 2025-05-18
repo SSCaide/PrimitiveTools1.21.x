@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "flint_shaping",
+  "ingredients": [
+    {
+      "tag": "sscprimitivetools:crushing_crafting"
+    },
+    {
+      "item": "minecraft:flint"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "sscprimitivetools:wide_shaped_flint"
+  }
+}

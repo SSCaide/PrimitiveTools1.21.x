@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "copper_shaping",
+  "ingredients": [
+    {
+      "tag": "sscprimitivetools:crushing_crafting_copper_plus"
+    },
+    {
+      "item": "minecraft:raw_copper"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "sscprimitivetools:wide_shaped_copper"
+  }
+}

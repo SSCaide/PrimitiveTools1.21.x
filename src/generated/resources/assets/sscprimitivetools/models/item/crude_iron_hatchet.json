@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "sscprimitivetools:item/crude_iron_hatchet"
+  }
+}

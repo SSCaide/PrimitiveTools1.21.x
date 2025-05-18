@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "iron_shaping",
+  "ingredients": [
+    {
+      "tag": "sscprimitivetools:crushing_crafting_copper_plus"
+    },
+    {
+      "item": "sscprimitivetools:fanned_shaped_iron"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "sscprimitivetools:long_shaped_iron"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_jagged_shaped_iron": {
+      "conditions": {
+        "items": [
+          {
+            "items": "sscprimitivetools:jagged_shaped_iron"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "sscprimitivetools:crude_iron_knife"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_jagged_shaped_iron"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "sscprimitivetools:crude_iron_knife"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "sscprimitivetools:item/fanned_shaped_iron"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "sscprimitivetools:vine"
+    },
+    "C": {
+      "tag": "minecraft:stone_tool_materials"
+    }
+  },
+  "pattern": [
+    "AB",
+    "AC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "sscprimitivetools:random_crude_stone_tool"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "remove": [
+    "#sscprimitivetools:needs_crude_copper_tool"
+  ],
+  "values": [
+    "#minecraft:incorrect_for_stone_tool"
+  ]
+}

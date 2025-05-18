@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "iron_shaping",
+  "ingredients": [
+    {
+      "tag": "sscprimitivetools:crushing_crafting_copper_plus"
+    },
+    {
+      "item": "sscprimitivetools:jagged_shaped_iron"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "sscprimitivetools:thin_shaped_iron"
+  }
+}

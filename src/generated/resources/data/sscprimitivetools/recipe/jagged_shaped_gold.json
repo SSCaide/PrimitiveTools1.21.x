@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "gold_shaping",
+  "ingredients": [
+    {
+      "tag": "sscprimitivetools:crushing_crafting"
+    },
+    {
+      "item": "sscprimitivetools:long_shaped_gold"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "sscprimitivetools:jagged_shaped_gold"
+  }
+}

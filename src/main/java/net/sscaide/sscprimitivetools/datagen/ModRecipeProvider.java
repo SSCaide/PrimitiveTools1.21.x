@@ -154,12 +154,42 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
                 .requires(Items.RAW_IRON, 2)
                 .unlockedBy("has_raw_iron", has(Items.RAW_IRON)).save(recipeOutput);
 
+        ShapedRecipeBuilder.shaped(RecipeCategory.TOOLS, Items.STONE_SWORD)
+                .pattern(" A ")
+                .pattern(" A ")
+                .pattern(" B ")
+                .define('A', Items.STONE).define('B', Items.STICK)
+                .unlockedBy("has_any_rock", has(ItemTags.STONE_TOOL_MATERIALS)).save(recipeOutput);
         ShapedRecipeBuilder.shaped(RecipeCategory.TOOLS, ModItems.RANDOM_CRUDE_STONE_TOOL.get())
                 .pattern("AB")
                 .pattern("AC")
                 .define('A', Items.STICK)
                 .define('B', ModItems.VINE)
                 .define('C', ItemTags.STONE_TOOL_MATERIALS)
+                .unlockedBy("has_any_rock", has(ItemTags.STONE_TOOL_MATERIALS)).save(recipeOutput);
+        ShapedRecipeBuilder.shaped(RecipeCategory.TOOLS, Items.STONE_PICKAXE)
+                .pattern("AAA")
+                .pattern(" B ")
+                .pattern(" B ")
+                .define('A', Items.STONE).define('B', Items.STICK)
+                .unlockedBy("has_any_rock", has(ItemTags.STONE_TOOL_MATERIALS)).save(recipeOutput);
+        ShapedRecipeBuilder.shaped(RecipeCategory.TOOLS, Items.STONE_AXE)
+                .pattern("AA ")
+                .pattern("AB ")
+                .pattern(" B ")
+                .define('A', Items.STONE).define('B', Items.STICK)
+                .unlockedBy("has_any_rock", has(ItemTags.STONE_TOOL_MATERIALS)).save(recipeOutput);
+        ShapedRecipeBuilder.shaped(RecipeCategory.TOOLS, Items.STONE_HOE)
+                .pattern("AA ")
+                .pattern(" B ")
+                .pattern(" B ")
+                .define('A', Items.STONE).define('B', Items.STICK)
+                .unlockedBy("has_any_rock", has(ItemTags.STONE_TOOL_MATERIALS)).save(recipeOutput);
+        ShapedRecipeBuilder.shaped(RecipeCategory.TOOLS, Items.STONE_SHOVEL)
+                .pattern(" A ")
+                .pattern(" B ")
+                .pattern(" B ")
+                .define('A', Items.STONE).define('B', Items.STICK)
                 .unlockedBy("has_any_rock", has(ItemTags.STONE_TOOL_MATERIALS)).save(recipeOutput);
 
         ShapedRecipeBuilder.shaped(RecipeCategory.TOOLS, ModItems.FLINT_KNIFE.get())

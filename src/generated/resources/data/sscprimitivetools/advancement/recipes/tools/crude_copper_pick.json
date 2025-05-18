@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_long_shaped_copper": {
+      "conditions": {
+        "items": [
+          {
+            "items": "sscprimitivetools:long_shaped_copper"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "sscprimitivetools:crude_copper_pick"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_long_shaped_copper"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "sscprimitivetools:crude_copper_pick"
+    ]
+  }
+}
