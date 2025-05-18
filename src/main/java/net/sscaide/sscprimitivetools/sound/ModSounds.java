@@ -17,7 +17,7 @@ public class ModSounds {
             DeferredRegister.create(BuiltInRegistries.SOUND_EVENT, PrimitiveTools.MOD_ID);
 
 
-    //
+    public static final Supplier<SoundEvent> FIRE_PLOUGH_USE =registerSoundEvent("fire_plough_use");
 
 
     private static ResourceKey<JukeboxSong> createSong(String name) {

@@ -1,8 +1,17 @@
 package net.sscaide.sscprimitivetools;
 
+import net.sscaide.sscprimitivetools.block.blockentities.ModBlockEntities;
+import net.sscaide.sscprimitivetools.component.ModDataComponents;
+import net.sscaide.sscprimitivetools.effect.ModEffects;
+import net.sscaide.sscprimitivetools.entity.ModEntities;
 import net.sscaide.sscprimitivetools.item.ModCreativeModeTabs;
 import net.sscaide.sscprimitivetools.item.ModItems;
 import net.sscaide.sscprimitivetools.block.ModBlocks;
+import net.sscaide.sscprimitivetools.recipe.ModRecipes;
+import net.sscaide.sscprimitivetools.screen.ModMenuTypes;
+import net.sscaide.sscprimitivetools.sound.ModSounds;
+import net.sscaide.sscprimitivetools.worldgen.tree.ModFoliagePlacerTypes;
+import net.sscaide.sscprimitivetools.worldgen.tree.ModTrunkPlacerTypes;
 import org.slf4j.Logger;
 
 import com.mojang.logging.LogUtils;
@@ -42,8 +51,14 @@ public class PrimitiveTools
 
         ModCreativeModeTabs.register(modEventBus);
 
+
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
+
+
+        ModDataComponents.register(modEventBus);
+        ModSounds.register(modEventBus);
+
 
         // Register our mod's ModConfigSpec so that FML can create and load the config file for us
         modContainer.registerConfig(ModConfig.Type.COMMON, Config.SPEC);

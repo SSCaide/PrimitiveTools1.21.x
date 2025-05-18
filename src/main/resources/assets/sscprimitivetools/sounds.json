@@ -1,0 +1,10 @@
+{
+  "fire_plough_use": {
+    "subtitle": "sounds.sscprimitivetools.fire_plough_use",
+    "sounds": [
+      "sscprimitivetools:fire_plough_use",
+      "sscprimitivetools:fire_plough_use_2",
+      "sscprimitivetools:fire_plough_use_3"
+    ]
+  }
+}

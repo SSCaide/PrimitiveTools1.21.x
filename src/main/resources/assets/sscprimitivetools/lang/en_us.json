@@ -1,3 +1,109 @@
 {
+  "item.sscprimitivetools.sharpened_rock": "Sharpened Rock",
+  "item.sscprimitivetools.sharpened_copper_chunk": "Sharpened Copper Chunk",
+  "item.sscprimitivetools.sharpened_iron_chunk": "Sharpened Iron Chunk",
 
+  "item.sscprimitivetools.sharpened_stick": "Sharpened Stick",
+  "item.sscprimitivetools.fire_plough":"Fire Plough",
+  "item.sscprimitivetools.bow_drill":"Bow Drill",
+
+  "item.sscprimitivetools.random_flint_tool": "Random Flint Tool",
+  "item.sscprimitivetools.flint_knife": "Flint Knife",
+  "item.sscprimitivetools.flint_pick": "Flint Pick",
+  "item.sscprimitivetools.flint_hatchet": "Flint Hatchet",
+  "item.sscprimitivetools.flint_spade": "Flint Spade",
+  "item.sscprimitivetools.flint_till": "Flint Till",
+
+  "item.sscprimitivetools.random_crude_stone_tool": "Random Crude Stone Tool",
+  "item.sscprimitivetools.crude_stone_knife": "Crude Stone Knife",
+  "item.sscprimitivetools.crude_stone_pick": "Crude Stone Pick",
+  "item.sscprimitivetools.crude_stone_hatchet": "Crude Stone Hatchet",
+  "item.sscprimitivetools.crude_stone_spade": "Crude Stone Spade",
+  "item.sscprimitivetools.crude_stone_till": "Crude Stone Till",
+
+  "item.sscprimitivetools.random_crude_gold_tool": "Random Crude Gold Tool",
+  "item.sscprimitivetools.crude_gold_knife": "Crude Gold Knife",
+  "item.sscprimitivetools.crude_gold_pick": "Crude Gold Pick",
+  "item.sscprimitivetools.crude_gold_hatchet": "Crude Gold Hatchet",
+  "item.sscprimitivetools.crude_gold_spade": "Crude Gold Spade",
+  "item.sscprimitivetools.crude_gold_till": "Crude Gold Till",
+
+  "item.sscprimitivetools.random_crude_copper_tool": "Random Crude Copper Tool",
+  "item.sscprimitivetools.crude_copper_knife": "Crude Copper Knife",
+  "item.sscprimitivetools.crude_copper_pick": "Crude Copper Pick",
+  "item.sscprimitivetools.crude_copper_hatchet": "Crude Copper Hatchet",
+  "item.sscprimitivetools.crude_copper_spade": "Crude Copper Spade",
+  "item.sscprimitivetools.crude_copper_till": "Crude Copper Till",
+
+  "item.sscprimitivetools.random_crude_iron_tool": "Random Crude Iron Tool",
+  "item.sscprimitivetools.crude_iron_knife": "Crude Iron Knife",
+  "item.sscprimitivetools.crude_iron_pick": "Crude Iron Pick",
+  "item.sscprimitivetools.crude_iron_hatchet": "Crude Iron Hatchet",
+  "item.sscprimitivetools.crude_iron_spade": "Crude Iron Spade",
+  "item.sscprimitivetools.crude_iron_till": "Crude Iron Till",
+
+
+  "item.sscprimitivetools.vine": "Vine",
+  "item.sscprimitivetools.copper_nugget": "Copper Nugget",
+
+
+  "item.sscprimitivetools.wide_shaped_flint": "Wide Shaped Flint",
+  "item.sscprimitivetools.fanned_shaped_flint": "Fanned Shaped Flint",
+  "item.sscprimitivetools.long_shaped_flint": "Long Shaped Flint",
+  "item.sscprimitivetools.thin_shaped_flint": "Thin Shaped Flint",
+
+  "item.sscprimitivetools.wide_shaped_gold": "Wide Shaped Gold",
+  "item.sscprimitivetools.fanned_shaped_gold": "Fanned Shaped Gold",
+  "item.sscprimitivetools.long_shaped_gold": "Long Shaped Gold",
+  "item.sscprimitivetools.jagged_shaped_gold": "Jagged Shaped Gold",
+  "item.sscprimitivetools.thin_shaped_gold": "Thin Shaped Gold",
+
+  "item.sscprimitivetools.wide_shaped_copper": "Wide Shaped Copper",
+  "item.sscprimitivetools.fanned_shaped_copper": "Fanned Shaped Copper",
+  "item.sscprimitivetools.long_shaped_copper": "Long Shaped Copper",
+  "item.sscprimitivetools.jagged_shaped_copper": "Jagged Shaped Copper",
+  "item.sscprimitivetools.thin_shaped_copper": "Thin Shaped Copper",
+
+  "item.sscprimitivetools.wide_shaped_iron": "Wide Shaped Iron",
+  "item.sscprimitivetools.fanned_shaped_iron": "Fanned Shaped Iron",
+  "item.sscprimitivetools.long_shaped_iron": "Long Shaped Iron",
+  "item.sscprimitivetools.jagged_shaped_iron": "Jagged Shaped Iron",
+  "item.sscprimitivetools.thin_shaped_iron": "Thin Shaped Iron",
+
+
+
+  "tooltip.sscprimitivetools.sharpened_rocks.tooltip": "§7Can be used to shape flint & ores for crafting crude tools.",
+  "tooltip.sscprimitivetools.random_crude_stone_tool.tooltip": "§7The rock is jagged and misshapen, and you lack the means to shape it. The tool you create will be random.",
+
+  "tooltip.sscprimitivetools.random_flint_tool.tooltip": "§7The flint is jagged and misshapen, and you lack the means to shape it. The tool you create will be random.",
+  "tooltip.sscprimitivetools.wide_shaped_flint.tooltip": "§7Flint beaten into shape. Would make a decent shovel.",
+  "tooltip.sscprimitivetools.fanned_shaped_flint.tooltip": "§7Flint beaten into shape. Would make a decent axe.",
+  "tooltip.sscprimitivetools.long_shaped_flint.tooltip": "§7Flint beaten into shape. Would make a decent pickaxe.",
+  "tooltip.sscprimitivetools.thin_shaped_flint.tooltip": "§7Flint beaten into shape. Would make a decent hoe.",
+
+  "tooltip.sscprimitivetools.random_crude_gold_tool.tooltip": "§7The gold is jagged and misshapen, and you lack the means to shape it. The tool you create will be random.",
+  "tooltip.sscprimitivetools.wide_shaped_gold.tooltip": "§7Gold beaten into shape. Would make a decent shovel.",
+  "tooltip.sscprimitivetools.fanned_shaped_gold.tooltip": "§7Gold beaten into shape. Would make a decent axe.",
+  "tooltip.sscprimitivetools.long_shaped_gold.tooltip": "§7Gold beaten into shape. Would make a decent pickaxe.",
+  "tooltip.sscprimitivetools.jagged_shaped_gold.tooltip": "§7Raw gold beaten into shape. Would make a decent knife.",
+  "tooltip.sscprimitivetools.thin_shaped_gold.tooltip": "§7Gold beaten into shape. Would make a decent hoe.",
+
+  "tooltip.sscprimitivetools.random_crude_copper_tool.tooltip": "§7The copper is jagged and misshapen, and you lack the means to shape it. The tool you create will be random.",
+  "tooltip.sscprimitivetools.wide_shaped_copper.tooltip": "§7Raw copper beaten into shape. Would make a decent shovel.",
+  "tooltip.sscprimitivetools.fanned_shaped_copper.tooltip": "§7Raw copper beaten into shape. Would make a decent axe.",
+  "tooltip.sscprimitivetools.long_shaped_copper.tooltip": "§7Raw copper beaten into shape. Would make a decent pickaxe.",
+  "tooltip.sscprimitivetools.jagged_shaped_copper.tooltip": "§7Raw copper beaten into shape. Would make a decent knife.",
+  "tooltip.sscprimitivetools.thin_shaped_copper.tooltip": "§7Raw copper beaten into shape. Would make a decent hoe.",
+
+  "tooltip.sscprimitivetools.random_crude_iron_tool.tooltip": "§7The iron is jagged and misshapen, and you lack the means to shape it. The tool you create will be random.",
+  "tooltip.sscprimitivetools.wide_shaped_iron.tooltip": "§7Raw iron beaten into shape. Would make a decent shovel.",
+  "tooltip.sscprimitivetools.fanned_shaped_iron.tooltip": "§7Raw iron beaten into shape. Would make a decent axe.",
+  "tooltip.sscprimitivetools.long_shaped_iron.tooltip": "§7Raw iron beaten into shape. Would make a decent pickaxe.",
+  "tooltip.sscprimitivetools.jagged_shaped_iron.tooltip": "§7Raw iron beaten into shape. Would make a decent knife.",
+  "tooltip.sscprimitivetools.thin_shaped_iron.tooltip": "§7Raw iron beaten into shape. Would make a decent hoe.",
+
+  "creativetab.sscprimitivetools.creative_tab": "Primitive Tools",
+
+
+  "sounds.sscprimitivetools.fire_plough_use": "Sticks rubbing together"
 }

@@ -10,6 +10,8 @@ import net.sscaide.sscprimitivetools.PrimitiveTools;
 import net.sscaide.sscprimitivetools.trim.ModTrimMaterials;
 import net.sscaide.sscprimitivetools.trim.ModTrimPatterns;
 import net.sscaide.sscprimitivetools.worldgen.ModBiomeModifiers;
+import net.sscaide.sscprimitivetools.worldgen.ModConfiguredFeatures;
+import net.sscaide.sscprimitivetools.worldgen.ModPlacedFeatures;
 
 import java.util.Set;
 import java.util.concurrent.CompletableFuture;
